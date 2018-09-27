@@ -1,0 +1,4 @@
+#ignorar los directorios siguientes
+bin/
+.settings/
+src/ec/com/jaapz/modelo/ClaseDAO.java
